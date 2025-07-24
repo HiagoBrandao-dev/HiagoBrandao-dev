@@ -1,9 +1,12 @@
 ##  Olá! Eu sou Hiago Brandão 💻 
-Meu interesse por desenvolvimento de sistemas surgiu durante algumas pesquisas sobre qual área seguir, me identifiquei muito com programação. Atualmente estou aprimorando meus conhecimentos em HTML, CSS, JavaScript e Java. Estou procurando uma oportunidade para ingressar em um trabalho como desenvolvedor jr.
+Sou estudante e entusiasta da área de Desenvolvimento de Software, atualmente focado em aprender e praticar HTML, CSS, JavaScript e Java.
+Gosto de transformar ideias em código e estou sempre buscando evoluir, tanto na lógica quanto nas boas práticas de programação. Este espaço é onde compartilho meus estudos, projetos e aprendizados.
 ## Sobre mim
 - ⚫  Desenvolvedor Back-end
 - 📓 Estudando Java | C#
 - 🌐 Estudando novas tecnologias.
+- 🎯 Em busca da minha primeira oportunidade como desenvolvedor.
+- 🚀 Aberto a colaborações e feedbacks construtivos.
 - 👤 Ele/dele
   
   <div style="display: inline_block"><br>
