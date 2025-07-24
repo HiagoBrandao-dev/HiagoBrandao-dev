@@ -1,8 +1,11 @@
-## Olá! Eu sou Hiago Brandão 👋
-
-- 🔭 Desenvolvedor Back-end
-- 🌱 Estudando Java | C#
-- 😄 Ele/dele
+##  Olá! Eu sou Hiago Brandão 💻 
+Meu interesse por desenvolvimento de sistemas surgiu durante algumas pesquisas sobre qual área seguir, me identifiquei muito com programação. Atualmente estou aprimorando meus conhecimentos em HTML, CSS, JavaScript e Java. Estou procurando uma oportunidade para ingressar em um trabalho como desenvolvedor jr.
+## Sobre mim
+- ⚫  Desenvolvedor Back-end
+- 📓 Estudando Java | C#
+- 🌐 Estudando novas tecnologias.
+- 👤 Ele/dele
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+## Redes Sociais
 
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
